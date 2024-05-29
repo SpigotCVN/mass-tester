@@ -1,0 +1,11 @@
+cvnPluginLocation: "/home/radsteve/IdeaProjects/CVN/plugin"
+testPluginLocation: "/home/radsteve/IdeaProjects/CVN/test-plugin"
+serversLocation: "/home/radsteve/IdeaProjects/CVN/masstester/run/$version"
+buildToolsLocation: "/home/radsteve/buildtools"
+buildToolsJarName: "BuildTools.jar"
+
+javaConfig:
+  java8Location: "/usr/lib/jvm/java-8-openjdk"
+  java16Location: "/usr/lib/jvm/java-16-adoptopenjdk"
+  java17Location: "/usr/lib/jvm/java-17-openjdk"
+  java21Location: "/usr/lib/jvm/java-21-temurin"
